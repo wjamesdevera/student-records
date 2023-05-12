@@ -140,7 +140,6 @@ void retrieve_student_records()
     
     if (file == NULL)
     {
-        printf("ERROR: opening student_records.txt");
         return;
     }
 
